@@ -1,2 +1,4 @@
 # bk
-mini resume
+author
+title
+years
